@@ -1,5 +1,7 @@
 ### CHAT AI
 
+![Chat-AI](/public/assets/chat-ai-img.png)
+
 Criei um chat usando a Vercel SDK junto a api do ChatGPT
 queria criar algum projeto mais simples usando IA pois tenho algumas ideias de futuros projetos em mente
 
